@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Manual Testing , API Testing , Automation Testing**
 
-- 📫 How to reach me **vaishnavithaakare@gmail.com**
+- 📫 How to reach me **vvaishnavithakare@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CG8mQkbyJDsS11OGuRO-NVCae2gec0Lv/view?usp=sharing](https://drive.google.com/file/d/1CG8mQkbyJDsS11OGuRO-NVCae2gec0Lv/view?usp=sharing)
 
